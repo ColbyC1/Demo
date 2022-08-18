@@ -1,4 +1,3 @@
-# Demo - Mortgage Calculator + More
-This is the beginning of some projects I started just to practice and to make sure im using this platform correctly.
-
-Please feel free to critique and give advice.
+# Demos / Starter Projs.
+This is the beginning of some simple projects Ive worked through in Jupyter Notebook.
+Please feel free to critique and give advice!
