@@ -1,3 +1,3 @@
-# Demos / Starter Projs.
+# Python Projects
 This is the beginning of some simple projects Ive worked through in Jupyter Notebook.
-Please feel free to critique and give advice!
+Mortgage Calculator will be used later for bigger projects or maybe housing website.
